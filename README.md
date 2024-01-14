@@ -2,6 +2,6 @@
 
 A collection of parallel texts I created in various languages. 
 
-* [Finnish](/fi)
-* [Interlingue](/ie)
+* [Finnish](/public/fi)
+* [Interlingue](/public/ie)
 
